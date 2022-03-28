@@ -30,6 +30,6 @@ public class Activity5 {
         newNovel.setTitle(title);
 
         //Print result
-        System.out.println("The title od book is: " + newNovel.getTitle());
+        System.out.println("The title old book is: " + newNovel.getTitle());
     }
 }
